@@ -1,2 +1,2 @@
-# studio-website
+# Sejos-studio-website
 SJ Studio
